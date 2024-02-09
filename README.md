@@ -24,3 +24,12 @@ You can install the required libraries using pip:
 
 --  NPM i inquirer qr-image
 
+## Contributing
+
+Contributions to the QR Code Generator are welcome! If you have a feature request, bug report, or a pull request, please feel free to contribute. To contribute:
+
+- Fork the repository.
+- Create a new branch for your feature (git checkout -b feature/AmazingFeature).
+- Commit your changes (git commit -m 'Add some AmazingFeature').
+- Push to the branch (git push origin feature/AmazingFeature).
+- Open a pull request.
